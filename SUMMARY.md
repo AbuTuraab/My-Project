@@ -1,19 +1,29 @@
 # Table of contents
 
-* [Introducing Merit Circle](README.md)
-* [Merit Circle - $MC](merit-circle-usdmc/README.md)
-  * [Token distribution](merit-circle-usdmc/token-distribution.md)
-  * [Vesting](merit-circle-usdmc/vesting.md)
-* [Governance](governance/README.md)
-  * [Proposal Process](governance/proposal-process.md)
-  * [Proposal Repository](governance/proposal-repository.md)
-  * [Governance Forum](https://gov.meritcircle.io)
-  * [Voting (Snapshot)](https://vote.meritcircle.io)
+* [What is MyProduct?](README.md)
 
-## Technical Documentation
+## Guides
 
-* [Security](technical-documentation/security/README.md)
-  * [Bug Bounty](technical-documentation/security/bug-bounty.md)
-* [Staking Module](technical-documentation/staking-module/README.md)
-  * [Liquidity Mining](technical-documentation/staking-module/liquidity-mining.md)
-  * [How to start Staking](technical-documentation/staking-module/how-to-start-staking.md)
+* [Creating your first project](guides/creating-your-first-project.md)
+* [Creating your first task](guides/creating-your-first-task.md)
+* [Advanced permissions](guides/advanced-permissions.md)
+
+## Fundamentals
+
+* [Projects](fundamentals/projects.md)
+* [Members](fundamentals/members.md)
+* [Task Lists](fundamentals/task-lists.md)
+* [Tasks](fundamentals/tasks.md)
+
+## Use Cases
+
+* [For Designers](use-cases/for-designers/README.md)
+  * [Figma Integration](use-cases/for-designers/figma-integration.md)
+* [For Engineers](use-cases/for-engineers/README.md)
+  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
+* [For Support](use-cases/for-support/README.md)
+  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+
+## Extras
+
+* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
